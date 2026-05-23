@@ -1,0 +1,1 @@
+ smallestNumberinarray(arr , size);
