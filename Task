@@ -1,0 +1,106 @@
+================ IF-ELSE =================
+
+1. Check number is positive, negative or zero
+Hint: Use if(num > 0)
+
+2. Find largest among 3 numbers
+Hint: Use && operator
+
+3. Check leap year
+Hint: divisible by 4 and not by 100 OR divisible by 400
+
+4. Check character is vowel or consonant
+Hint: compare with a,e,i,o,u
+
+5. Calculate electricity bill
+Hint: use multiple if-else if
+
+
+================ SWITCH =================
+
+1. Make simple calculator
+Hint: use operator in char
+
+2. Print day name using day number
+Hint: switch(day)
+
+3. Print month name using month number
+Hint: cases from 1 to 12
+
+4. Food ordering system
+Hint: print menu then use switch
+
+5. Check vowel using switch
+Hint: multiple cases
+
+
+================ LOOP =================
+
+1. Print 1 to 100
+Hint: for loop
+
+2. Find factorial
+Hint: multiply 1 to n
+
+3. Reverse a number
+Hint: num % 10 and num / 10
+
+4. Check palindrome number
+Hint: reverse then compare
+
+5. Print Fibonacci series
+Hint: use a,b,c variables
+
+
+================ FUNCTION =================
+
+1. Function to find square
+Hint: return value
+
+2. Function to find maximum of 2 numbers
+Hint: int max(int a,int b)
+
+3. Calculator using functions
+Hint: separate function for each operation
+
+4. Check prime number using function
+Hint: loop from 2 to n-1
+
+5. Swap two numbers using function
+Hint: use pointers
+
+
+================ ARRAY =================
+
+1. Print array elements
+Hint: loop
+
+2. Find largest element
+Hint: assume first is max
+
+3. Reverse array
+Hint: swap arr[i] and arr[size-1-i]
+
+4. Count even and odd numbers
+Hint: use %2
+
+5. Move all zeros to end
+Hint: store non-zero first
+
+
+================ STRUCTURE =================
+
+1. Create student structure
+Hint: struct Student
+
+2. Take student details from user
+Hint: scanf()
+
+3. Print details of 5 students
+Hint: array of structure
+
+4. Find highest marks student
+Hint: compare using loop
+
+5. Employee salary filter
+Hint: print salary > 50000
