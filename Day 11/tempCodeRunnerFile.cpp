@@ -1,0 +1,13 @@
+for(int i = 0 ; i < size -1 ; i++){
+        int smallestIndex = i;
+        for(int j = i + 1 ; j<size ;j++ ){
+            if(arr[j]<arr[smallestIndex]){
+             smallestIndex = j;
+            }
+        }
+        swap(arr[smallestIndex], arr[i] );
+    }
+
+    for(int i = 0 ; i < size ; i++){
+        cout<<arr[i]<<" ";
+    }
